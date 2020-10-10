@@ -7,6 +7,7 @@ django donation with moncash<br />
 `python manage.py migrate`<br />
 #inskri sou site moncash la<br />
 `https://sandbox.moncashbutton.digicelgroup.com/Moncash-business/Login`<br />
+#apre `ou kreye` oubyen `edite`<br />
 #apre wale nn `general info` sa ki nan menu an<br />
 `https://sandbox.moncashbutton.digicelgroup.com/Moncash-business/Admin/Info`<br />
 #apre ou kreye yon `business`<br />
