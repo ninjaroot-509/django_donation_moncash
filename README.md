@@ -2,7 +2,7 @@
 django donation with moncash
 
 #instale moncash la
-`pip install moncashify`
+`pip install moncashify` <br />
 #f migation yo
 `python manage.py migrate`
 #inskri sou site moncash la
