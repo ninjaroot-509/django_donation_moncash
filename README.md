@@ -3,8 +3,9 @@ django donation with moncash
 
 #instale moncash la
 `pip install moncashify`
-
-#python manage.py migrate
-#python manage.py runserver
+#f migation yo
+`python manage.py migrate`
+#pouw k run li
+`python manage.py runserver`
 
 happy code!!!
